@@ -1,0 +1,1 @@
+C:\Users\chris\source\repos\voting_portal\voting_portal.client\obj\Debug\voting_portal.client.esproj.CoreCompileInputs.cache

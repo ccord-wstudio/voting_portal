@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\chris\\source\\repos\\voting_portal\\voting_portal.Server\\..\\voting_portal.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
